@@ -1,0 +1,92 @@
+[
+    {
+        "plateNumber": "TN01AB1234",
+        "ownerName": "Rahul Kumar",
+        "vehicleType": "Car",
+        "engineNumber": "ENG123456",
+        "chassisNumber": "CH1234567890",
+        "regYear": "2020",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "TN82Y8388",
+        "ownerName": "Sita Sharma",
+        "vehicleType": "Bike",
+        "engineNumber": "ENG654321",
+        "chassisNumber": "CH0987654321",
+        "regYear": "2021",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "KA03EF9101",
+        "ownerName": "Arjun Rao",
+        "vehicleType": "Truck",
+        "engineNumber": "ENG987654",
+        "chassisNumber": "CH2345678901",
+        "regYear": "2019",
+        "legalInfo": "Registered, Pending Insurance"
+    },
+    {
+        "plateNumber": "MH04GH1122",
+        "ownerName": "Priya Singh",
+        "vehicleType": "Car",
+        "engineNumber": "ENG123789",
+        "chassisNumber": "CH4567890123",
+        "regYear": "2022",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "DL05IJ3141",
+        "ownerName": "Vikram Malhotra",
+        "vehicleType": "SUV",
+        "engineNumber": "ENG321456",
+        "chassisNumber": "CH5678901234",
+        "regYear": "2023",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "TN06KL1617",
+        "ownerName": "Nisha Patel",
+        "vehicleType": "Van",
+        "engineNumber": "ENG654987",
+        "chassisNumber": "CH6789012345",
+        "regYear": "2020",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "AP07MN1819",
+        "ownerName": "Sunil Verma",
+        "vehicleType": "Bike",
+        "engineNumber": "ENG123654",
+        "chassisNumber": "CH7890123456",
+        "regYear": "2018",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "UP08OP2021",
+        "ownerName": "Aditi Gupta",
+        "vehicleType": "Car",
+        "engineNumber": "ENG789456",
+        "chassisNumber": "CH8901234567",
+        "regYear": "2021",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "RJ09QR2223",
+        "ownerName": "Rajesh Joshi",
+        "vehicleType": "Truck",
+        "engineNumber": "ENG456123",
+        "chassisNumber": "CH9012345678",
+        "regYear": "2022",
+        "legalInfo": "Registered, Valid Insurance"
+    },
+    {
+        "plateNumber": "HR10ST2425",
+        "ownerName": "Neha Agarwal",
+        "vehicleType": "SUV",
+        "engineNumber": "ENG321789",
+        "chassisNumber": "CH0123456789",
+        "regYear": "2023",
+        "legalInfo": "Registered, Valid Insurance"
+    }
+]
